@@ -34,6 +34,7 @@ JAWS2025 employs a **Random Forest AI model** for multi-class classification. Ad
 - Swarna Dharshini S  
 - Sri Janani S
 - Shanmugapriyan S
+  
 _M.Tech Computer Science and Engineering, Amrita Vishwa Vidyapeetham, Coimbatore_
 
 ## 🌐 Demo Link
